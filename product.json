@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Galaxy 20",
+        "price": 253000,
+        "company": "Samsung",
+        "featured": true,
+        "rating": 6.0
+    },
+    {
+        "name": "Galaxy 25 edge",
+        "price": 251000,
+        "company": "Samsung",
+        "featured": true,
+        "rating": 6.0
+    },
+    {
+        "name": "A50",
+        "price": 253000,
+        "company": "Nokia",
+        "featured": false,
+        "rating": 6.0
+    },
+    {
+        "name": "Galaxy S5",
+        "price": 153000,
+        "company": "Samsung",
+        "featured": true,
+        "rating": 6.0
+    },
+    {
+        "name": "Galaxy 3p edge",
+        "price": 25300,
+        "company": "Samsung",
+        "featured": true,
+        "rating": 6.0
+    },
+    {
+        "name": "Galaxy 2f",
+        "price": 153000,
+        "company": "Samsung",
+        "featured": true,
+        "rating": 6.0
+    },
+    {
+        "name": "Galaxy 2A",
+        "price": 53000,
+        "company": "Samsung",
+        "featured": true,
+        "rating": 6.0
+    },
+    {
+        "name": "Home range 5",
+        "price": 23000,
+        "company": "LG",
+        "featured": true
+    },
+    {
+        "name": "HK 5",
+        "price": 22000,
+        "company": "LG",
+        "featured": true
+    },
+    {
+        "name": "HR 3",
+        "price": 27000,
+        "company": "LG",
+        "featured": true
+    },
+    {
+        "name": "HB 2",
+        "price": 32000,
+        "company": "LG",
+        "featured": true
+    },
+    {
+        "name": "Erisson 5",
+        "price": 23000,
+        "company": "Sony",
+        "featured": true
+    },
+    {
+        "name": "Erisson 2 pro",
+        "price": 47000,
+        "company": "Sony"
+    }
+
+    
+    
+    
+    
+    
+    
+    
+    
+]

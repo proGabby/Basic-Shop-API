@@ -1,0 +1,11 @@
+# Basic-Shop-API
+A Basic Shop API using NODEJS, EXPRESS, MONGODB, MONGOOSE
+
+to sort, you must provide the query name "sort".
+api/v1/product?sort=name
+
+to sort in descending order, add - to the front of the property you want to sort
+api/v1/product?sort=-name
+
+to fetch a particular field name only, you must provide the query name "field"
+api/v1/product?field=name,company
